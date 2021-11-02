@@ -24,6 +24,7 @@ I personally love LOW-LEVEL-DESIGN as this use to be a day to day activity for a
   4. [LeetCode System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
   5. [LeetCode template](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft)
   6. [Leetcode system Design ](https://leetcode.com/discuss/general-discussion/1105898/system-design-introduction-to-distributed-systems-designing-a-highly-available-system)
+  7. [AWS- design](https://www.youtube.com/watch?v=2XVgpMwY5iE&list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
 
 ### Important Concepts in System Design [HHD]
 1. Scalability
