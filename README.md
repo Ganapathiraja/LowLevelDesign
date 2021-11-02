@@ -16,6 +16,41 @@ I personally love LOW-LEVEL-DESIGN as this use to be a day to day activity for a
 >> I mostly use youtube to learn Java's best practices from [Devoxx](https://www.youtube.com/c/Devoxx2015/search?query=java%20best%20practices%20) , I have learnt about clean code and best Utility classes to use to make the best out of it, how they approach problems and how do they simplify the complex things , I love how they classify things easily and I have personally used many of the scenarios from them
 ---
 
+### Youtube and other resources
+  This will given you an idea on LLD, make use of these examples and ideology to solve the problems
+  1. [Udait agarwal](https://www.youtube.com/c/anomaly2104/playlists) [to get a Good understaing on defining the classes]
+  2. [Tech Grath](https://www.youtube.com/channel/UCQSU2g8XU-ZSs26_4HGuCWg) [ lot of common interview problems]
+  3. [System Design Primer - HHD ](https://github.com/donnemartin/system-design-primer) [very quality content to read through ]
+  4. [LeetCode System Design Template](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
+  5. 
+
+### Important Concepts in System Design [HHD]
+1. Scalability
+2. Performance
+3. Latency and Throughput
+4. Consistency
+5. Availability
+6. Partition Tolerance
+7. CAP Theorem
+8. Domain Name System
+9. Content Delivery Network
+10. Load Balancers and Reverse Proxy
+11. Microservices
+12. Databases
+13. Caching
+14. Message Queues
+15. 
+
+## HHD Standard Questions:
+1. Pastebin
+2. TinyURL
+3. Uber
+4. BookMyShow
+5. Twitter Feed
+6. Facebook Messenger
+7. Search in Instagram
+8. Video Streaming Service
+ 
 
 !! Periodically I'll be Updating this readme page then and there !! 
 
