@@ -56,4 +56,11 @@ I personally love LOW-LEVEL-DESIGN as this use to be a day to day activity for a
 
 !! Periodically I'll be Updating this readme page then and there !! 
 
+### Learning Curve resources for best practices 👊🏻👊🏻
+1. https://www.youtube.com/watch?v=F02LKnWJWF4
+2. https://www.youtube.com/watch?v=B-mLFobQ0aA
+3. https://www.youtube.com/watch?v=F02LKnWJWF4
+4. https://www.youtube.com/watch?v=r8UvWSX3KA8&t=206s
+
+
 
